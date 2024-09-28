@@ -1,0 +1,1 @@
+print("executamdo log02_new_repository")
